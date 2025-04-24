@@ -1,1 +1,1 @@
-web: gunicorn project_nomi.wsgi
+web: gunicorn python.wsgi
